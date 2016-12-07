@@ -1,0 +1,13 @@
+﻿  Source.cpp
+c:\users\vineeth\documents\visual studio 15\projects\cryptography\cryptography\source.cpp(17): warning C4244: 'argument': conversion from 'long double' to 'int', possible loss of data
+c:\users\vineeth\documents\visual studio 15\projects\cryptography\cryptography\source.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\vineeth\documents\visual studio 15\projects\cryptography\cryptography\source.cpp(73): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\vineeth\documents\visual studio 15\projects\cryptography\cryptography\source.cpp(109): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\vineeth\documents\visual studio 15\projects\cryptography\cryptography\source.cpp(141): warning C4018: '<': signed/unsigned mismatch
+c:\users\vineeth\documents\visual studio 15\projects\cryptography\cryptography\source.cpp(151): warning C4018: '<': signed/unsigned mismatch
+c:\users\vineeth\documents\visual studio 15\projects\cryptography\cryptography\source.cpp(163): warning C4018: '<': signed/unsigned mismatch
+c:\users\vineeth\documents\visual studio 15\projects\cryptography\cryptography\source.cpp(166): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\vineeth\documents\visual studio 15\projects\cryptography\cryptography\source.cpp(173): warning C4018: '<': signed/unsigned mismatch
+c:\users\vineeth\documents\visual studio 15\projects\cryptography\cryptography\source.cpp(266): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Cryptography.vcxproj -> C:\Users\Vineeth\Documents\Visual Studio 15\Projects\Cryptography\Debug\Cryptography.exe
+  Cryptography.vcxproj -> C:\Users\Vineeth\Documents\Visual Studio 15\Projects\Cryptography\Debug\Cryptography.pdb (Partial PDB)
